@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Patito </b>👋,</h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<!--
-**PatitoTipado/PatitoTipado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Here are some ideas to get you started:
+I am an advanced web development student, close to finishing my degree. I'm expanding my knowledge in both front-end and back-end development and am currently looking for my first experience in the IT field as a backend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+
+Spring MVC
+PHP MVC
+👯 I’m looking forward to collaborating on open-source projects.
+✔️ Feel free to ask me anything; I'm happy to help!
+
+Outside of tech, 💜 I'm working on improving my public speaking skills, 🎮 playing video games, 🎵 listening to music, and 📖 reading crime novels.
+
+📫 Reach out to me on <a href="https://www.linkedin.com/in/mauricio-dominguez-4190ab24a/">LinkedIn!</a>
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+
+</span>
