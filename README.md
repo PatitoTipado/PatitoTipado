@@ -6,16 +6,15 @@
 
 I am an advanced web development student, close to finishing my degree. I'm expanding my knowledge in both front-end and back-end development and am currently looking for my first experience in the IT field as a backend developer.
 
-🌱 I’m currently learning:
+- 🌱 I’m currently learning ...
+  - English
+  - Spring framework
+  - PHP
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside of tech, 💜 I'm working on improving my public speaking skills, 🎮 playing video games, 🎵 listening to music, and 📖 reading crime novels.
+- 📫 Reach out to me on <a href="https://www.linkedin.com/in/mauricio-dominguez-4190ab24a/">LinkedIn!</a>
 
-Spring MVC
-PHP MVC
-👯 I’m looking forward to collaborating on open-source projects.
-✔️ Feel free to ask me anything; I'm happy to help!
-
-Outside of tech, 💜 I'm working on improving my public speaking skills, 🎮 playing video games, 🎵 listening to music, and 📖 reading crime novels.
-
-📫 Reach out to me on <a href="https://www.linkedin.com/in/mauricio-dominguez-4190ab24a/">LinkedIn!</a>
 ## My Skills Include
 
 <h4> Languages </h4>
