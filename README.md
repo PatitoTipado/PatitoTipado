@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Patito </b>👋,</h1>
+<h1 align="center"><b>Hi , I'm Patito </b>👋</h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
