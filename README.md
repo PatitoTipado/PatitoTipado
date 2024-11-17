@@ -13,7 +13,18 @@ I am an advanced web development student, close to finishing my degree. I'm expa
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of tech, 💜 I'm working on improving my public speaking skills, 🎮 playing video games, 🎵 listening to music, and 📖 reading crime novels.
-- 📫 Reach out to me on <a href="https://www.linkedin.com/in/mauricio-dominguez-4190ab24a/">LinkedIn!</a>
+<h3 align="center">📫Connect with me:</h3>
+<p align="center">
+<!--    <a href="#">
+     <img src="https://img.shields.io/badge/Portfolio-%231278ba.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  </a>-->
+<a href="https://www.linkedin.com/in/mauricio-dominguezz/">
+     <img src="https://img.shields.io/badge/LinkedIn-%231278ba.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="mailto:mauricionahueldominguez@gmail.com?subject=Hi there">
+     <img src="https://img.shields.io/badge/Gmail-1278ba.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+</p>
 
 ## My Skills Include
 
